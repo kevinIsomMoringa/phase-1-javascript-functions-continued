@@ -17,7 +17,7 @@ function wrapAdjective(param1='*') {
 // console.log(saturdayFun())
 // console.log(mondayWork('go to Moringa school'))
 // console.log(mondayWork())
-console.log(wrapAdjective()())
+// console.log(wrapAdjective()())
 
 
 
